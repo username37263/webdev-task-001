@@ -109,4 +109,3 @@ Web Server: A computer that hosts websites and serves them to users' browsers.
 White-Space: In CSS, controls the display of spaces, line breaks, and tabs.
 
 XML (eXtensible Markup Language): A language designed to store and transport data.
-
